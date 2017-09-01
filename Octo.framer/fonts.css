@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Comfortaa";
+  font-weight: 700;
+  src: url("fonts/Comfortaa/Comfortaa-Regular.ttf");
+}
+
+@font-face {
+  font-family: "SFProDisplay-Ultralight";
+  font-weight: 100;
+  src: url("fonts/SF-UI/SF-UI-Display-Ultralight.otf");
+}
+
+
+@font-face {
+  font-family: "SFProDisplay-Light";
+  font-weight: 200;
+  src: url("fonts/SF-UI/SF-UI-Display-Thin.otf");
+}
+
+
+@font-face {
+  font-family: "SFProDisplay";
+  font-weight: 400;
+  src: url("fonts/SF-UI/SF-UI-Display-Regular.otf");
+}
+
+
+@font-face {
+  font-family: "SFProDisplay-Medium";
+  font-weight: 500;
+  src: url("fonts/SF-UI/SF-UI-Display-Medium.otf");
+}
+
+
+@font-face {
+  font-family: "SFProDisplay-Semibold";
+  font-weight: 600;
+  src: url("fonts/SF-UI/SF-UI-Display-Semibold.otf");
+}
+
+
+@font-face {
+  font-family: "SFProDisplay-Bold";
+  font-weight: 700;
+  src: url("fonts/SF-UI/SF-UI-Display-Bold.otf");
+}

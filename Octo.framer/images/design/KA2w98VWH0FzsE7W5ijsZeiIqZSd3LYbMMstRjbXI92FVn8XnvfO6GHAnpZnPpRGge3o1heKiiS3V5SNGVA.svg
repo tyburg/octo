@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Octo / Icons /Truck inactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Octo-/-Icons-/Truck-inactive">
+            <g id="Octo-/-Icons-/Truck-Copy">
+                <rect id="Rectangle" x="0" y="0" width="48" height="32"></rect>
+                <g id="truck_noun_888654" transform="translate(13.000000, 8.000000)" fill-rule="nonzero" fill="#7C7C81">
+                    <path d="M8.11764706,0 L8.11764706,2.7826087 L5.68235294,2.7826087 C4.32941176,2.7826087 3.78823529,4.31304348 3.58529412,4.86956522 L2.90882353,6.95652174 L2.70588235,6.95652174 C1.55588235,6.95652174 0.676470588,7.86086957 0.676470588,9.04347826 L0.676470588,10.4347826 L0,10.4347826 L0,13.2173913 L2.70588235,13.2173913 C2.70588235,14.7478261 3.92352941,16 5.41176471,16 C6.9,16 8.11764706,14.7478261 8.11764706,13.2173913 L14.8823529,13.2173913 C14.8823529,14.7478261 16.1,16 17.5882353,16 C19.0764706,16 20.2941176,14.7478261 20.2941176,13.2173913 L23,13.2173913 L23,0 L8.11764706,0 Z M4.53235294,5.2173913 C4.73529412,4.59130435 5.07352941,3.82608696 5.68235294,3.82608696 L8.11764706,3.82608696 L8.11764706,6.95652174 L3.99117647,6.95652174 L4.53235294,5.2173913 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
