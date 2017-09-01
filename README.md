@@ -3,7 +3,7 @@ Design files from the [360iDev](https://360idev.com) talk The Right 🛠s For th
 
 Since Sketch came on the scene there have been a number of new design tools released. How do they compare? Which ones could be of use to you and your team? Do they power up Sketch, or do they replace it? This talk will survey the landscape of design tools and show them in action.
 
-(https://github.com/tyburg/octo/raw/master/hero.png)
+![What is better than one recipe for octopus? Eight recipes for octopus!](https://github.com/tyburg/octo/raw/master/hero.png)
 
 ## Credits:
 ### Icons
